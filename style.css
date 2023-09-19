@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+/*style du header*/
+header{
+    display: block;
+    position: relative;
+    background-color: black;
+    padding: 40px;
+    color: blueviolet;
+
+}
+
+/*style du titre h1*/
+h1{
+    position: relative;
+    display: block;
+}
+
+/*style de la carte géographique*/
+#map { 
+    height: 500px; 
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
